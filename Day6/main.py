@@ -23,3 +23,4 @@ with open('D:\Github\AdventOfCode-2022\Day6\input.txt', 'r') as input_file:
     
     start_of_message_marker(4) # part 1
     start_of_message_marker(14) # part 2
+input_file.close()
